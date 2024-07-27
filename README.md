@@ -1,0 +1,1 @@
+# wordpress-cookieconsent-plugin
